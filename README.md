@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Perceptron incremental learning algorithm</h3>
+  <h1 align="center">Perceptron incremental learning algorithm</h1>
 
   <p align="center">
     Given an example and a corresponding class value, train a perceptron incrementally with the delta rule and stochastic gradient descent which can handle both binary and continuous features.
