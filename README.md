@@ -1,4 +1,3 @@
-# Perceptron-Incremental-Learning
 
 <!-- PROJECT LOGO -->
 <br />
