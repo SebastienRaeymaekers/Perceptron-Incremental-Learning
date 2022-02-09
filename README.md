@@ -19,7 +19,7 @@ A Perceptron class which can be used to create a binary classifier that linearly
 
 ### Built With
 * [Java](https://www.java.com/)
-* [Java.io](https://https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html)
+* [Java.io](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html)
 
 
 <!-- GETTING STARTED -->
